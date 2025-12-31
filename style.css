@@ -1,0 +1,19 @@
+body {
+      text-align: center;
+    }
+
+    #monitor {
+      background-color: blue;
+      font-weight: bold;
+      border: 1em solid rgb(73, 73, 73);
+      color: white;
+      width: 20%;
+      height: 100px;
+      margin: 1em auto;
+      padding: 0.2em 0;
+    }
+
+    button {
+      background-color: rgb(5, 193, 5);
+      color: white;
+    }
