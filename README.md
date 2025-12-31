@@ -1,5 +1,5 @@
 # Simple-ATM
-Mini ATM Simulator A simple cash withdrawal simulator built with Asynchronous JavaScript(Promises & Async/Await) to simulate real-time transaction processes.
+Mini ATM Simulator A simple cash withdrawal simulator built with **Asynchronous JavaScript(Promises & Async/Await)** to simulate real-time transaction processes.
 
 **🚀Main Features:**
 - Input Validation: Checks for sufficient balance or invalid input (below 0).
